@@ -1,17 +1,38 @@
-👋 Oi, seja bem-vindo ao meu perfil do GitHub! Meu nome é Nicola Monte Cravo Garofalo e estou animado para compartilhar meus projetos no mundo da programação.
+<h2 align="left">Sobre</h2>
 
-🎓 Sou um estudante de Análise e Desenvolvimento de Sistemas na FIAP(Faculdade de Informática e Administração Paulista) e apaixonado por tecnologia.
+###
 
-💻 Aqui, você encontrará meus projetos que refletem não apenas meu aprendizado acadêmico, mas também minhas experiências práticas e paixão por resolver problemas através da tecnologia.
+<p align="left">👋Oi, seja bem-vindo ao meu perfil do GitHub! Meu nome é Nicola Monte Cravo Garofalo e estou animado para compartilhar meus projetos no mundo da programação.  Sou um estudante de Análise e Desenvolvimento de Sistemas na FIAP(Faculdade de Informática e Administração Paulista) e apaixonado por tecnologia.<br><br> Aqui, você encontrará meus projetos que refletem não apenas meu aprendizado acadêmico, mas também minhas experiências práticas e paixão por resolver problemas através da tecnologia.</p>
 
-🚀 Estou constantemente buscando novas oportunidades para expandir meu conhecimento e habilidades. Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de crescimento como desenvolvedor!
+###
 
-Links úteis:
+<div align="left">
+  <a href="https://www.linkedin.com/in/nicola-monte-cravo-garofalo-3757902b0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-🎯Meu Perfil no Linkedin: https://www.linkedin.com/in/nicola-monte-cravo-garofalo-3757902b0/
+###
 
+<h2 align="left">Tecnologias</h2>
 
-<h2 align="left">Stats</h2>
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
+
+###
+
+<h2 align="left">Status</h2>
 
 ###
 
